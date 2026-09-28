@@ -20,8 +20,8 @@ The simulations involve:
 
 ## Repository Structure
 
-* **`dynamics/`** — Main program for the time-dependent simulation and quench dynamics.
 * **`phase transition_static/`** — Static mean-field calculation used to study the phase transition.
+* **`dynamics/`** — Main program for the time-dependent simulation and quench dynamics.
 * **`Subroutines/`** — Fortran subroutines used by the simulation programs, including Hamiltonian construction and Runge–Kutta time evolution.
 * **`common.h`** — Shared definitions used by the Fortran programs.
 * **`Thesis/`** — MSc thesis describing the theoretical background, numerical methods, and results.
