@@ -2,7 +2,7 @@
 
 This repository contains the Fortran codes developed during my MSc Physics project, **“Dynamics of Quantum Phase Transition in 2D Bose–Hubbard Model.”**
 
-The project investigates the dynamics of the quantum phase transition from a **Mott-insulating phase to a superfluid phase** using the mean-field approximation and numerical simulations on a 2D lattice.
+The project investigates the dynamics of the quantum phase transition from a **Mott-insulating phase to a superfluid phase** using the mean-field approximation and numerical simulations on a 2D optical lattice.
 
 ## Project Overview
 
